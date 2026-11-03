@@ -38,9 +38,5 @@ Through this project, I practiced:
 This project was completed as part of my HR Analytics learning journey through NPTEL.
 
 **Course:** HR Analytics  
-**Tutorial:** [Add the tutorial link here]
 
 This is a course-based learning project. The original tutorial and learning materials are credited above.
-
-## 📌 Disclaimer
-This project is for learning and portfolio purposes.
